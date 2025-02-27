@@ -11,18 +11,6 @@
 	}
 
 	void loop() {
-	  // Red light ON, Green and Yellow OFF
-	  digitalWrite(redLED, HIGH);
-	  digitalWrite(yellowLED, LOW);
-	  digitalWrite(greenLED, LOW);
-	  delay(5000); // Red light stays on for 5 seconds
-	  
-	  // Yellow light ON, Red and Green OFF
-	  digitalWrite(redLED, LOW);
-	  digitalWrite(yellowLED, HIGH);
-	  digitalWrite(greenLED, LOW);
-	  delay(2000); // Yellow light stays on for 2 seconds
-	  
 	  // Green light ON, Red and Yellow OFF
 	  digitalWrite(redLED, LOW);
 	  digitalWrite(yellowLED, LOW);
@@ -34,4 +22,10 @@
 	  digitalWrite(yellowLED, HIGH);
 	  digitalWrite(greenLED, LOW);
 	  delay(2000); // Yellow light stays on for 2 seconds
+
+	  // Red light ON, Green and Yellow OFF
+	  digitalWrite(redLED, HIGH);
+	  digitalWrite(yellowLED, LOW);
+	  digitalWrite(greenLED, LOW);
+	  delay(5000); // Red light stays on for 5 seconds    
 	}
