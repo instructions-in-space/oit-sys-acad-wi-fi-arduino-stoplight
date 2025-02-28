@@ -1,9 +1,22 @@
-	// Define pins for LEDs
+  #include <ESP8266WiFi.h>	
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include "wi-fi_config.h"
+
+  // Define pins for LEDs
 	const int redLED = 16;
 	const int yellowLED = 14;
 	const int greenLED = 12;
 
 	void setup() {
+ 
+     // Setup serial port
+    Serial.begin(115200);
+    Serial.println();
+
+    // Begin Wi-Fi (this works)
+    WiFi.begin(WIFI_SSID,WIFI_PASS);
+
 	  // Set each LED pin as an OUTPUT
 	  pinMode(redLED, OUTPUT);
 	  pinMode(yellowLED, OUTPUT);
@@ -11,6 +24,28 @@
 	}
 
 	void loop() {
+    //Serial.println("Hello Mars!");
+    //delay(1000);
+
+    // Connecting to WiFi...
+    //Serial.print("Connecting to ");
+    //Serial.print(WIFI_SSID);
+    // Loop continuously while WiFi is not connected
+    while (WiFi.status() != WL_CONNECTED)
+    {
+      delay(100);
+      Serial.print(".");
+    }
+
+    // Connected to WiFi
+    //Serial.println();
+    Serial.print("Connected to ");
+    Serial.print(WIFI_SSID);
+    Serial.print(", ");
+    //Serial.println();
+    Serial.print("IP address: ");
+    Serial.println(WiFi.localIP());
+
 	  // Green light ON, Red and Yellow OFF
 	  digitalWrite(redLED, LOW);
 	  digitalWrite(yellowLED, LOW);
