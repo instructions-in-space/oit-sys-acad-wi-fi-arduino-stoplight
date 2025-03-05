@@ -1,0 +1,191 @@
+::ffff:192.168.204.218 - - [04/Mar/2025 15:41:26] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:41:26] "GET /script.js HTTP/1.1" 304 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:41:42] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:41:42] "POST /green HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:42:29] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:42:38] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:42:38] "POST /green HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:23] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:23] "POST /stoplightoff HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:28] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:28] "POST /green HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:35] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:35] "POST /stoplightoff HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:39] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:39] "POST /green HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:45] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:45] "POST /stoplightoff HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:48] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:48] "POST /green HTTP/1.1" 501 -
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:52] code 501, message Unsupported method ('POST')
+::ffff:192.168.204.218 - - [04/Mar/2025 15:45:52] "POST /stoplightoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:14:41] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:14:41] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:14:41] "GET /styles.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:15:17] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:15:17] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:15:34] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:15:34] "POST /off HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:35] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:35] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:37] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:37] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:42] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:42] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:47] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:47] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:51] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:20:51] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:10] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:10] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:10] "GET /styles.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:15] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:15] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:19] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:21:19] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:24] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:24] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:28] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:28] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:34] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:34] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:40] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:40] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:46] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:25:46] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:26:51] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:26:51] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:26:55] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:26:55] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:03] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:03] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:09] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:09] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:12] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:27:12] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:14] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:14] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:40] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:40] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:49] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:28:49] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:28] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:28] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:31] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:31] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:37] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:37] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:40] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:40] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:44] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:44] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:47] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:47] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:49] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:49] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:52] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:52] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:54] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:54] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:58] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:30:58] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:06] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:06] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:12] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:12] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:16] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:16] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:22] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:22] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:23] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:35:23] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:17] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:17] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:20] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:20] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:23] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:23] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:25] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:25] "POST /greenon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:26] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:37:26] "POST /greenoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:38:45] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:38:45] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:38:47] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:04] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:04] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:04] "GET /styles.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:56] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:56] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:39:58] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:40:30] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:40:30] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:41:07] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:41:07] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:41:33] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:41:33] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:41:34] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:30] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:30] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:34] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:34] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:37] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:37] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:39] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:39] "POST /greenon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:40] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:42:40] "POST /greenoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:43:19] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:43:19] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:28] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:28] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:38] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:38] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:39] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:44:39] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:45:06] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:45:06] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:45:07] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:45:17] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:45:17] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:49:58] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:49:58] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:50:33] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:51:28] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:51:28] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:51:30] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:51:59] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:52:00] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:52:08] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:52:08] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:52:08] "GET /styles.css HTTP/1.1" 200 -
+::ffff:192.168.204.211 - - [04/Mar/2025 16:53:35] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:192.168.204.211 - - [04/Mar/2025 16:53:35] "GET /styles.css HTTP/1.1" 200 -
+::ffff:192.168.204.211 - - [04/Mar/2025 16:53:35] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:00] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:00] "GET /script.js HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:01] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:07] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:07] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:08] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:08] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:09] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:09] "POST /greenon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:10] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:10] "POST /greenoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:11] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:12] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:21] "GET /stoplightcontrol.html HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:21] "GET /script.js HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:21] "GET /styles.css HTTP/1.1" 200 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:44] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:44] "POST /redon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:45] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:45] "POST /redoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:46] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:46] "POST /greenon HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:47] code 501, message Unsupported method ('POST')
+::ffff:127.0.0.1 - - [04/Mar/2025 16:56:47] "POST /greenoff HTTP/1.1" 501 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:58:29] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:58:29] "GET /styles.css HTTP/1.1" 304 -
+::ffff:127.0.0.1 - - [04/Mar/2025 16:58:29] "GET /script.js HTTP/1.1" 304 -
