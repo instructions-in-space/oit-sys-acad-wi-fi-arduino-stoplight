@@ -86,10 +86,11 @@
     }
 
 	void loop() {
+
     // When not connected to Wi-Fi, the system defaults to "Automatic Mode".
-    while (WiFi.status() != WL_CONNECTED) {
-      automatic_mode();
-    }
+    //while (WiFi.status() != WL_CONNECTED) {
+    //  automatic_mode();
+    //}
 
     WiFiClient client = server.available();  // Listen for incoming clients
 
@@ -101,13 +102,82 @@
 
           String raw_command = client.readStringUntil('\n');
           client.flush();
-          const char* web_command = raw_command.c_str();
+          const char* web_command = raw_command.c_str();  // Converts true string into char array (C string)
 
           Serial.print(web_command);
           Serial.println();
 
-          if(strstr(web_command, "red")) {
-            Serial.print("It's red!");
+          // Manual mode, red light on
+          if(strstr(web_command, "redon")) {
+            //Serial.println();
+	          // Red light ON
+	          digitalWrite(redLED, HIGH);
+            Serial.print("Red light on");
+            Serial.println();
+            Serial.print("-------------------");
+            Serial.println();
+          }
+
+          // Manual mode, red light on
+          if(strstr(web_command, "redoff")) {
+            //Serial.println();
+	          // Red light OFF
+	          digitalWrite(redLED, LOW);
+            Serial.print("Red light off");
+            Serial.println();
+            Serial.print("-------------------");
+            Serial.println();
+          }
+
+          // Manual mode, red light on
+          if(strstr(web_command, "onlyredon")) {
+            //Serial.println();
+	          // Red light ON, Green and Yellow OFF
+	          digitalWrite(redLED, HIGH);
+	          digitalWrite(yellowLED, LOW);
+	          digitalWrite(greenLED, LOW);
+            Serial.print("Only the red light on");
+            Serial.println();
+            Serial.print("-------------------");
+            Serial.println();
+          }
+
+          // Manual mode, yellow light on
+          if(strstr(web_command, "onlyyellowon")) {
+            //Serial.println();
+	          // Yellow light ON, Red and Green OFF
+	          digitalWrite(redLED, LOW);
+	          digitalWrite(yellowLED, HIGH);
+	          digitalWrite(greenLED, LOW);
+            Serial.print("Only the yellow light on");
+            Serial.println();
+            Serial.print("-------------------");
+            Serial.println();
+          }
+
+          // Manual mode, green light on
+          if(strstr(web_command, "onlygreenon")) {
+            //Serial.println();
+	          // Green light ON, Red and Yellow OFF
+	          digitalWrite(redLED, LOW);
+	          digitalWrite(yellowLED, LOW);
+	          digitalWrite(greenLED, HIGH);
+            Serial.print("Only the green light on");
+            Serial.println();
+            Serial.print("-------------------");
+            Serial.println();
+          }
+
+          // Manual mode, all lights off
+          if(strstr(web_command, "alloff")) {
+            //Serial.println();
+	          // Green, Red, and Yellow OFF
+	          digitalWrite(redLED, LOW);
+	          digitalWrite(yellowLED, LOW);
+	          digitalWrite(greenLED, LOW);
+            Serial.print("All lights off");
+            Serial.println();
+            Serial.print("-------------------");
             Serial.println();
           }
 
@@ -119,6 +189,7 @@
         }
       }
     }
-    automatic_mode();
+    
+    //automatic_mode();
 
 	}
