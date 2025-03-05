@@ -6,10 +6,11 @@ body {
   align-items: center;
   height: 100vh;
   margin: 0;
+  background-image: url('images/blue-background.png');
 }
 
 .toggle-container {
-  text-align: center;
+  text-align: left;
 }
 
 .switch {

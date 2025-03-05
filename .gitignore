@@ -1,6 +1,8 @@
 # Custom
 .env
 *.h
+images/
+log.txt
 
 # Prerequisites
 *.d

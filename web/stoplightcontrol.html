@@ -6,32 +6,60 @@
   <title>Toggle Button</title>
   <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
-  <h2>Red Light</h2>
-  <br>
-  <p>
-  <br>
+
+  <h1>Traffic Light Control</h1>
+  <img src="images/traffic-lights.png" width="155" height="150" alt="three traffic lights">
+
+  <h2>Automatic</h2>
   <div class="toggle-container">
     <label class="switch">
-      <input type="checkbox" id="redLightToggleButton">
-      <span class="slider"></span>
-    </label>
-  </div>
-  </p>
-
-  <br>
-
-  <p>Green Light</p>
-  <br>
-  <div class="toggle-container">
-    <label class="switch">
-      <input type="checkbox" id="greenLightToggleButton">
+      <input type="checkbox" id="automaticSettingToggleButton" onclick="toggleSwitches('automaticSettingToggleButton')">
       <span class="slider"></span>
     </label>
   </div>
 
-  <br>
+  <h3>Duration for Each Light</h3>
+  <label for="redinput">Red:</label>
+  <input type="text" id="redinput" oninput="updateVariable('redinput', 'redtime')" />
+  <br><br>
+  <label for="yellowinput">Yellow:</label>
+  <input type="text" id="yellowinput" oninput="updateVariable('yellowinput', 'yellowtime')" />
+  <br><br>
+  <label for="greeninput">Green:</label>
+  <input type="text" id="greeninput" oninput="updateVariable('greeninput', 'greentime')" />
+
+  <br><br>
+
+  <h2>Manual</h2>
+
+  <h3>Red</h3>
+  <div class="toggle-container">
+    <label class="switch">
+      <input type="checkbox" id="redLightToggleButton" onclick="toggleSwitches('redLightToggleButton')">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  <h3>Yellow</h3>
+  <div class="toggle-container">
+    <label class="switch">
+      <input type="checkbox" id="yellowLightToggleButton" onclick="toggleSwitches('yellowLightToggleButton')">
+      <span class="slider"></span>
+    </label>
+  </div>
+
+  <h3>Green</h3>
+  <div class="toggle-container">
+    <label class="switch">
+      <input type="checkbox" id="greenLightToggleButton" onclick="toggleSwitches('greenLightToggleButton')">
+      <span class="slider"></span>
+    </label>
+  </div>
 
   <script src="script.js"></script>
+
 </body>
+
 </html>
