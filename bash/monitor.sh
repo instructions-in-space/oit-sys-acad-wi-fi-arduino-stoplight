@@ -30,68 +30,72 @@ echo "Welcome to \"monitor.sh\"!  (Press ctrl-c to exit.)"
 while : ; do
 	latest_line=$(tail -n 1 ../state/log.txt)
 	if [[ "$latest_line" =~ redon ]]; then
-		$connection_string
 		new_state=redon
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=redon
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ redoff ]]; then
-		$connection_string
 		new_state=redoff
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=redoff
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ yellowon ]]; then
-		$connection_string
 		new_state=yellowon
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=yellowon
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ yellowoff ]]; then
-		$connection_string
 		new_state=yellowoff
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=yellowoff
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ greenon ]]; then
-		$connection_string
 		new_state=greenon
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=greenon
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ greenoff ]]; then
-		$connection_string
 		new_state=greenoff
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=greenoff
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ automaticon ]]; then
-		$connection_string
 		new_state=automaticon
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=automaticon
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
 	elif [[ "$latest_line" =~ automaticoff ]]; then
-		$connection_string
 		new_state=automaticoff
 		if [[ ! $new_state =~ $current_state ]]; then
 			current_state=automaticoff
-			echo \"$current_state\" is the latest command.
+			$connection_string$current_state
+			echo \"$current_state\"
 		fi
-
-
-
-
+	elif [[ "$latest_line" =~ timechange ]]; then
+		timechange_string=$(echo $latest_line | tr ' ' '\n' | grep timechange | tr -d '/')
+		undefined_to_zero="${timechange_string//undefined/0}"
+		new_state=$undefined_to_zero
+		if [[ ! $new_state =~ $current_state ]]; then
+			current_state=$new_state
+			$connection_string$current_state
+			echo \"$current_state\"
+		fi
 	fi
-	sleep 1
+	sleep 0.25
 done 
 
-# 
 
