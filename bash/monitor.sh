@@ -71,6 +71,20 @@ while : ; do
 			current_state=greenoff
 			echo \"$current_state\" is the latest command.
 		fi
+	elif [[ "$latest_line" =~ automaticon ]]; then
+		$connection_string
+		new_state=automaticon
+		if [[ ! $new_state =~ $current_state ]]; then
+			current_state=automaticon
+			echo \"$current_state\" is the latest command.
+		fi
+	elif [[ "$latest_line" =~ automaticoff ]]; then
+		$connection_string
+		new_state=automaticoff
+		if [[ ! $new_state =~ $current_state ]]; then
+			current_state=automaticoff
+			echo \"$current_state\" is the latest command.
+		fi
 
 
 

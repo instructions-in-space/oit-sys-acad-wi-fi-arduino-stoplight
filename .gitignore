@@ -2,7 +2,7 @@
 .env
 *.h
 images/
-log.txt
+/log.txt
 
 # Prerequisites
 *.d
