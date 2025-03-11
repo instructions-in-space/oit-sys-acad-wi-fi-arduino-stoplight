@@ -1,232 +1,201 @@
-::1 - - [06/Mar/2025 15:19:09] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:19:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:10] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:12] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:12] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:14] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:14] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:16] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:16] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:17] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:17] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:19] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:19] "POST /greenoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:23] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:23] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:34] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:34] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:56] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:56] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:19:57] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:19:57] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:12] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:12] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:13] "POST /timechange_5_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:17] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:17] "POST /timechange_5_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:18] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:18] "POST /timechange_5_6_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:23] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:23] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:20:24] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:20:24] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:06] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:06] "POST /timechange_2_6_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:06] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:06] "POST /timechange_20_6_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:10] "POST /timechange_20_6_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:10] "POST /timechange_20_1_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:10] "POST /timechange_20_15_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:13] "POST /timechange_20_15_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:13] "POST /timechange_20_15_2_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:23:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:23:13] "POST /timechange_20_15_20_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:26:52] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:26:52] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:27:01] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:27:06] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:27:06] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:27:07] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:27:07] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:27:08] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:27:08] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:27:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:27:10] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:21] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:28:29] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:29] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:29] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:29] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:30] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:30] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:31] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:31] "POST /greenoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:32] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:32] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:33] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:33] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:51] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:51] "POST /timechange_2_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:28:52] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:28:52] "POST /timechange_20_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:04] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:35:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:10] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:11] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:11] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:12] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:12] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:15] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:15] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:29] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:29] "POST /timechange_undefined_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:30] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:30] "POST /timechange_2_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:35:30] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:35:30] "POST /timechange_20_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:37:16] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:37:19] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:37:19] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:37:21] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:37:21] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:37:22] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:37:22] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:39:22] "GET /stoplightcontrol.html HTTP/1.1" 200 -
-::1 - - [06/Mar/2025 15:39:50] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:39:50] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:39:51] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:39:51] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:39:55] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:39:55] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:39:56] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:39:56] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:39:58] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:39:58] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:40:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:40:13] "POST /timechange_undefined_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:40:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:40:13] "POST /timechange_undefined_undefined_1_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:40:14] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:40:14] "POST /timechange_undefined_undefined_10_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:45:58] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:46:06] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:06] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:08] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:08] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:09] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:09] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:10] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:11] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:11] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:20] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:20] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:21] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:21] "POST /timechange_10_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:52] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:52] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:53] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:53] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:46:55] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:46:55] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:00] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:49:10] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:10] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:11] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:11] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:12] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:12] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:12] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:12] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:13] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:13] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:14] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:14] "POST /greenoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:16] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:16] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:25] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:25] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:25] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:25] "POST /timechange_10_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:46] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:46] "POST /timechange_10_undefined_1_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:49:46] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:49:46] "POST /timechange_10_undefined_12_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:07] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:07] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:17] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:17] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:18] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:18] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:19] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:19] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:20] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:20] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:21] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:21] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:22] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:22] "POST /greenoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:25] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:25] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:47] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:53:53] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:53] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:53:58] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:53:58] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:08] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:08] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:09] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:09] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:15] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:15] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:17] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:17] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:31] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:31] "POST /timechange_undefined_1_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:54:31] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:54:31] "POST /timechange_undefined_12_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:55:01] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:55:01] "POST /timechange_2_12_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:55:01] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:55:01] "POST /timechange_20_12_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:55:57] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:55:57] "POST /automaticoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:23] "GET /stoplightcontrol.html HTTP/1.1" 304 -
-::1 - - [06/Mar/2025 15:58:31] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:31] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:33] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:33] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:33] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:33] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:34] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:34] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:35] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:35] "POST /greenon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:35] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:35] "POST /greenoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:37] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:37] "POST /yellowon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:39] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:39] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:39] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:39] "POST /yellowoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:58:42] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:58:42] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:59:07] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:59:07] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:59:07] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:59:07] "POST /timechange_10_undefined_undefined_ HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:59:30] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:59:30] "POST /redon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:59:39] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:59:39] "POST /redoff HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 15:59:42] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 15:59:42] "POST /automaticon HTTP/1.1" 501 -
-::1 - - [06/Mar/2025 16:00:21] code 501, message Unsupported method ('POST')
-::1 - - [06/Mar/2025 16:00:21] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:04] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::1 - - [07/Mar/2025 09:10:16] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:16] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:20] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:20] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:21] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:21] "POST /greenon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:24] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:24] "POST /greenoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:25] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:10:26] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:10:26] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:47] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:47] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:50] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:50] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:51] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:51] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:53] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:53] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:54] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:54] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:55] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:55] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:56] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:56] "POST /greenon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:57] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:57] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:58] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:58] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:11:59] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:11:59] "POST /greenoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:12:06] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:12:06] "POST /greenon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:12:09] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:12:09] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:12:11] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:12:11] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:12:12] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:12:12] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:12:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:12:25] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:13:52] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:13:52] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:13:55] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:13:55] "POST /timechange_undefined_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:13:57] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:13:57] "POST /timechange_3_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:13:58] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:13:58] "POST /timechange_30_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:00] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:00] "POST /timechange_3_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:00] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:00] "POST /timechange_3_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:02] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:02] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:04] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:04] "POST /timechange_1_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:05] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:05] "POST /timechange_1_2_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:08] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:08] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:14:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:14:38] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:21:09] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:21:09] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:21:10] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:21:10] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:05] "GET /stoplightcontrol.html HTTP/1.1" 304 -
+::1 - - [07/Mar/2025 09:22:09] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:09] "POST /timechange_undefined_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:10] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:10] "POST /timechange_3_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:13] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:13] "POST /timechange_3_undefined_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:13] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:13] "POST /timechange_3_3_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:15] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:15] "POST /timechange_3_3_undefined_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:16] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:16] "POST /timechange_3_3_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:19] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:19] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:23] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:23] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:24] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:24] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:38] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:57] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:57] "POST /greenon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:22:59] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:22:59] "POST /greenoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:23:00] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:23:00] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:23:01] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:23:01] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:23:02] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:23:02] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:23:03] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:23:03] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:22] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:22] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:23] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:23] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:24] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:24] "POST /greenon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:34] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:34] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:35] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:35] "POST /yellowon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:36] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:36] "POST /yellowoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:37] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:37] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:27:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:27:38] "POST /greenoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:03] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:03] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:13] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:13] "POST /redon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:18] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:18] "POST /redoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:22] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:22] "POST /timechange_3_3_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:22] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:22] "POST /timechange_0_3_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:26] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:26] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:42] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:42] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:45] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:45] "POST /timechange_0_3_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:47] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:47] "POST /timechange_0_0_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:48] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:48] "POST /timechange_0_0_4_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:49] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:49] "POST /timechange_0_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:28:52] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:28:52] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:10] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:10] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:12] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:12] "POST /timechange_0_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:12] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:12] "POST /timechange_1_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:22] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:22] "POST /timechange_1_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:22] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:22] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:24] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:24] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:25] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:25] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:25] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:25] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:25] "POST /timechange_1_1_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:26] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:26] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:33] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:33] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:33] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:33] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:34] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:34] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:34] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:34] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:35] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:35] "POST /timechange_1_1_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:36] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:36] "POST /timechange_1_0_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:36] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:36] "POST /timechange_1_0_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:36] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:36] "POST /timechange_1_0_1_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:38] "POST /timechange_1_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:38] "POST /timechange_1_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:38] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:38] "POST /timechange_1_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:41] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:41] "POST /timechange_0_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:41] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:41] "POST /timechange_0_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:29:41] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:29:41] "POST /timechange_0_0_0_ HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:30:00] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:30:00] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:30:04] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:30:04] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:30:09] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:30:09] "POST /automaticon HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 09:30:16] code 501, message Unsupported method ('POST')
+::1 - - [07/Mar/2025 09:30:16] "POST /automaticoff HTTP/1.1" 501 -
+::1 - - [07/Mar/2025 10:53:01] "GET /stoplightcontrol.html HTTP/1.1" 304 -
